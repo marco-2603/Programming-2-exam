@@ -1,6 +1,6 @@
 # Programming 2 Exercises
 Exercises and labs for the Programming 2 course - A.A. 2024/25.
-#Topics
+# Topics
 Core Java OOP concepts including:
 
 - Classes & Objects - Encapsulation, Constructors, Methods
